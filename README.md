@@ -1,1 +1,1 @@
-# Mypythonproject
+以下檔案是我利用課餘時間看stanCode的python線上影片，並練習出來的成果
