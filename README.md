@@ -1,1 +1,2 @@
-資料夾"Mypythonproject"中的程式碼是我利用課餘時間看stanCode的python線上影片，並練習出來的成果
+此為學生林尚亨利用課餘時間看stanCode的python線上影片，並練習出來的成果。
+如果想看作品完整內容，請點上方的資料夾"Mypythonstancode"即可閱覽
