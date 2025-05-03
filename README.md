@@ -1,1 +1,1 @@
-以上檔案是我利用課餘時間看stanCode的python線上影片，並練習出來的成果
+資料夾"Mypythonproject"中的程式碼是我利用課餘時間看stanCode的python線上影片，並練習出來的成果
